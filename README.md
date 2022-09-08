@@ -1,2 +1,2 @@
 # sql_app
-Simple app using Python 3.10 and SQLAlchemy
+Simple app using FastApi and SQLAlchemy
